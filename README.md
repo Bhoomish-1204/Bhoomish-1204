@@ -7,7 +7,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Computer+Science+Engineering+Student;AI+%7C+Machine+Learning+Enthusiast;C%2B%2B+Developer;Full+Stack+Developer;Open+Source+Learner;Always+Building+Something+Awesome+🚀"/>
 
 <p>
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=Bhoomish-1204&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 </p>
 
 </div>
@@ -18,13 +18,13 @@
 
 <img align="right" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 
-🎓 B.Tech Computer Science Engineering Student
+🎓 **B.Tech Computer Science Engineering Student** @ Amrita Vishwa Vidyapeetham
 
-🤖 Passionate about Artificial Intelligence & Machine Learning
+🤖 Passionate about **Artificial Intelligence & Machine Learning**
 
 💻 Full Stack Web Developer
 
-🧠 Strong interest in Data Structures & Algorithms
+🧠 Strong interest in **Data Structures & Algorithms**
 
 🌱 Currently learning
 
@@ -33,17 +33,36 @@
 - System Design
 - Cloud Computing
 
-🚀 Always building interesting projects
+🚀 Building projects in AI, Web Development & Automation
 
 ---
 
 # 🌐 Connect With Me
 
 <p align="center">
-<a href="YOUR_LINKEDIN"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
-<a href="YOUR_LEETCODE"><img src="https://skillicons.dev/icons?i=leetcode"/></a>
-<a href="mailto:YOUR_EMAIL"><img src="https://skillicons.dev/icons?i=gmail"/></a>
-<a href="YOUR_PORTFOLIO"><img src="https://skillicons.dev/icons?i=github"/></a>
+
+<a href="https://www.linkedin.com/in/bhoomish007/" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
+</a>
+
+&nbsp;&nbsp;&nbsp;
+
+<a href="mailto:iambhoomish@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="50"/>
+</a>
+
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://leetcode.com/u/Bhoomish_King/" target="_blank">
+<img src="https://cdn.simpleicons.org/leetcode/FFA116" height="50"/>
+</a>
+
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://github.com/Bhoomish-1204" target="_blank">
+<img src="https://skillicons.dev/icons?i=github" height="50"/>
+</a>
+
 </p>
 
 ---
@@ -60,12 +79,12 @@
 
 # 🚀 Featured Projects
 
-| Project | Description |
-|---------|-------------|
-| 🌊 Flood Rescue AI | AI-powered disaster victim detection |
-| 📝 Student OD Portal | Three-level approval web application |
-| ♟️ Othello AI | AI-powered Othello game using Minimax |
-| 🌐 Portfolio Website | Personal responsive portfolio |
+| 🚀 Project | 📖 Description |
+|------------|----------------|
+| 🌊 **Flood Rescue AI** | AI-powered disaster victim detection using Computer Vision |
+| 📝 **Student OD Portal** | Three-level approval web application |
+| ♟️ **Othello AI** | AI-powered Othello game using Minimax Algorithm |
+| 🌐 **Portfolio Website** | Personal responsive developer portfolio |
 
 ---
 
@@ -73,9 +92,9 @@
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Bhoomish-1204&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhoomish-1204&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -85,7 +104,7 @@
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=Bhoomish-1204&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -95,7 +114,7 @@
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Bhoomish-1204&theme=tokyo-night&hide_border=true"/>
 
 </p>
 
@@ -105,7 +124,7 @@
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&margin-w=10&margin-h=10"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Bhoomish-1204&theme=algolia&no-frame=true&margin-w=10&margin-h=10"/>
 
 </p>
 
@@ -115,7 +134,7 @@
 
 <p align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=github_dark"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bhoomish-1204&theme=github_dark"/>
 
 </p>
 
@@ -133,12 +152,11 @@
 
 # 🐍 Contribution Snake
 
-> **This will work after adding a GitHub Action.**  
-> (I'll give you the workflow next.)
+> Enable the GitHub Action to generate this animation automatically.
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/Bhoomish-1204/Bhoomish-1204/output/github-contribution-grid-snake-dark.svg"/>
 
 </p>
 
@@ -159,17 +177,17 @@
 
 # 🎯 2026 Goals
 
-- ✅ Contribute to Open Source
-- ✅ Master Machine Learning
-- ✅ Solve 500+ DSA Problems
-- ✅ Build Production-Level Projects
-- ✅ Land a Software Engineering Internship
+- 🚀 Contribute to Open Source
+- 🧠 Master Machine Learning
+- 💯 Solve 500+ DSA Problems
+- 🌍 Build Production-Level Projects
+- 💼 Land a Software Engineering Internship
 
 ---
 
 <div align="center">
 
-### ⭐ If you like my work, consider giving a star to my repositories!
+### ⭐ Thanks for visiting my profile! ⭐
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer"/>
 
