@@ -6,9 +6,9 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Computer+Science+Engineering+Student;AI+%7C+Machine+Learning+Enthusiast;C%2B%2B+Developer;Full+Stack+Developer;Open+Source+Learner;Always+Building+Something+Awesome+🚀"/>
 
-<p>
+<br>
+
 <img src="https://komarev.com/ghpvc/?username=Bhoomish-1204&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-</p>
 
 </div>
 
@@ -16,13 +16,13 @@
 
 # 💫 About Me
 
-<img align="right" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+<img align="right" width="330" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 
-🎓 **B.Tech Computer Science Engineering Student** @ Amrita Vishwa Vidyapeetham
+🎓 **B.Tech Computer Science Engineering** @ Amrita Vishwa Vidyapeetham
 
 🤖 Passionate about **Artificial Intelligence & Machine Learning**
 
-💻 Full Stack Web Developer
+💻 Full Stack Developer
 
 🧠 Strong interest in **Data Structures & Algorithms**
 
@@ -33,7 +33,7 @@
 - System Design
 - Cloud Computing
 
-🚀 Building projects in AI, Web Development & Automation
+🚀 Building intelligent AI and Web applications.
 
 ---
 
@@ -41,26 +41,20 @@
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/bhoomish007/" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
+<a href="https://www.linkedin.com/in/bhoomish007/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
-&nbsp;&nbsp;&nbsp;
 
 <a href="mailto:iambhoomish@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="50"/>
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://leetcode.com/u/Bhoomish_King/" target="_blank">
-<img src="https://cdn.simpleicons.org/leetcode/FFA116" height="50"/>
+<a href="https://leetcode.com/u/Bhoomish_King/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://github.com/Bhoomish-1204" target="_blank">
-<img src="https://skillicons.dev/icons?i=github" height="50"/>
+<a href="https://github.com/Bhoomish-1204">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </p>
@@ -84,19 +78,7 @@
 | 🌊 **Flood Rescue AI** | AI-powered disaster victim detection using Computer Vision |
 | 📝 **Student OD Portal** | Three-level approval web application |
 | ♟️ **Othello AI** | AI-powered Othello game using Minimax Algorithm |
-| 🌐 **Portfolio Website** | Personal responsive developer portfolio |
-
----
-
-# 📊 GitHub Analytics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Bhoomish-1204&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhoomish-1204&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
+| 🌐 **Portfolio Website** | Personal responsive portfolio |
 
 ---
 
@@ -120,26 +102,6 @@
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Bhoomish-1204&theme=algolia&no-frame=true&margin-w=10&margin-h=10"/>
-
-</p>
-
----
-
-# ⚡ GitHub Metrics
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bhoomish-1204&theme=github_dark"/>
-
-</p>
-
----
-
 # 📌 Quote of the Day
 
 <p align="center">
@@ -151,8 +113,6 @@
 ---
 
 # 🐍 Contribution Snake
-
-> Enable the GitHub Action to generate this animation automatically.
 
 <p align="center">
 
@@ -187,7 +147,7 @@
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile! ⭐
+### ⭐ Thanks for visiting my profile!
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer"/>
 
