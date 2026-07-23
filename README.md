@@ -1,3 +1,5 @@
-### Hi, I'm Bhoomish 👋
+# Hey 👋, I'm Bhoomish S
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&background=00000000&center=true&vCenter=true&width=550&lines=Hi+there%2C+I'm+Bhoomish+%F0%9F%91%8B;CS+Engineering+Student+%40+Amrita+Vishwa+Vidyapeetham;Frontend+%26+Systems+Enthusiast;Building+AI%2C+Web+%26+Quantum+Projects;Open+to+Collaborate+%F0%9F%9A%80)](https://git.io/typing-svg)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=25&pause=1000&color=00D9FF&center=true&vCenter=true&width=850&lines=Welcome+to+my+GitHub+Profile!;Computer+Science+Engineering+Student;AI+%7C+Machine+Learning+%7C+C%2B%2B;Full-Stack+Web+Developer;Open+Source+Learner;Let's+Build+Something+Awesome!+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
